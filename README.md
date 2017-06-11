@@ -94,4 +94,4 @@ Retrieving Product Price Information
 * Logging Errors (2)
 * Ensuring Data Consistency
 
-[Database ERD](https://github.com/MuhammadBilalYar/Transact-SQL-Queries/blob/master/img/Transact-SQL-Queries%20ERD.PNG)
+![Database ERD](https://github.com/MuhammadBilalYar/Transact-SQL-Queries/blob/master/img/Transact-SQL-Queries%20ERD.PNG)
