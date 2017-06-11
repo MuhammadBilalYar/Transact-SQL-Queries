@@ -1,6 +1,7 @@
 # Transact-SQL-Queries
 In This repository you can learn basic Transact-SQL
-** NOTE : You can find video tutorial and other related document in this [GitHun repository](https://github.com/MuhammadBilalYar/Transact-SQL-Queries/wiki/Home/_edit) **
+
+**NOTE : You can find video tutorial and other related document in this [GitHub Repository](http://microsoftlearning.github.io/QueryingT-SQL/)**
 
 ## Module 1: Introduction to Transact-SQL 
 * Retrieving Customer Data
@@ -92,3 +93,5 @@ Retrieving Product Price Information
 * Logging Errors
 * Logging Errors (2)
 * Ensuring Data Consistency
+
+[Database ERD](https://github.com/MuhammadBilalYar/Transact-SQL-Queries/blob/master/img/Transact-SQL-Queries%20ERD.PNG)
